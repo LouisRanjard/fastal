@@ -1,6 +1,6 @@
 # fastal
 
-C program to get fasta file sequence lenght statistics.
+C program to get fasta file sequence length distribution statistics.
 
 Require the kseq.h library.
 
